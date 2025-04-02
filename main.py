@@ -1,3 +1,10 @@
+# Author: Ibrahima Oumar LY
+# Position: Data Engineer
+# Company: Atos
+# Email: mlyibrahima@gmail.com
+# Website:
+# Created: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
+
 from tkinter import *
 import math
 
